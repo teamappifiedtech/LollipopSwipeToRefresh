@@ -1,6 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LollipopSwipeToRefresh</string>
 
+    <string name="app_name">SwipeRefreshExample</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string-array name="names_list">
+        <item>Priyabrat</item>
+        <item>Prabhat</item>
+        <item>Darshan</item>
+        <item>Rintu</item>
+        <item>Ramnmath</item>
+        <item>Papli</item>
+        <item>John</item>
+        <item>Rampal</item>
+        <item>Akashay</item>
+    </string-array>
+
 </resources>

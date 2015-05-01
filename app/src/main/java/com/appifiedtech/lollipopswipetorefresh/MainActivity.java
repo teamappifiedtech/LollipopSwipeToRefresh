@@ -29,6 +29,7 @@ public class MainActivity extends ActionBarActivity {
                 new DataFetcher().execute();
             }
         });
+        // setting colors for loading
         mSwipeRefreshLayout.setColorSchemeResources(R.color.orange,R.color.green,R.color.blue);
     }
 
